@@ -1,8 +1,6 @@
-conditions  []ifCondition
-}
-// ifCondition can match a WebDAV resource, based on a stateToken or ETag.
-// Exactly one of stateToken and entityTag should be non-empty.
-type ifCondition struct {
-	not        bool
-	stateToken string
-	entityTag  string# LLM
+Welcome to this repository dedicated to Large Language Models (LLMs)! 🚀
+
+📌 What’s Inside?
+Code for training and fine-tuning LLMs
+Examples of model inference and API integration
+Guides on optimizing performance and reducing costs
